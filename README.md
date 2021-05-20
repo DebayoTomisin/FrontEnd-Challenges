@@ -1,0 +1,1 @@
+Well this repo hosts my front end challenges basically, Trying to not be mediocre.
